@@ -1,5 +1,5 @@
-# Midterm_Project_1000
-#Midterm Project for INFOTC - 1000
+# 1600 Markdown Challenge
+#1600 Markdown Challenge
 
 <h1>Welcome!</h1>
 
