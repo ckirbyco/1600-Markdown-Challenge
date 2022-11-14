@@ -1,5 +1,4 @@
 # 1600 Markdown Challenge
-#1600 Markdown Challenge
 
 <h1>Welcome!</h1>
 
